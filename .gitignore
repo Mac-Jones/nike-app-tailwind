@@ -27,3 +27,7 @@ vite.config.js
 postcss.config.js
 .eslintrc.cjs
 package-lock.json
+
+# Local Netlify folder
+.netlify
+.netlify.toml
